@@ -11,7 +11,9 @@
 % SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 % 
 % Retrieved from: http://en.literateprograms.org/Insertion_sort_(Erlang)?oldid=19162
+
 % Sort a list %
+
 -module(isort).
 -export([sort/1]).
 
@@ -38,3 +40,4 @@ sort(H, [AccH | AccT]) ->
  
 sort(H, []) ->
     [H].
+    
