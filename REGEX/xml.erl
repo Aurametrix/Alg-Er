@@ -4,6 +4,7 @@
 -export([main/1]).
 -include_lib("xmerl/include/xmerl.hrl").
 
+% find . -type f -name \*.rss
 parseAll(D) ->
     % find all RSS files underneath D
     FL = filelib:fold_files(D, ".+.rss$", true, fun(F, L) -> [F|L] end, []),
