@@ -7,3 +7,11 @@ Runtime system has built-in support for concurrency, distribution and fault tole
 Usage
 $ erlc hello.erl 
 $ erl -noshell -s hello start -s init stop
+
+
+#### OTP-21 highlights
+
+    example({ok, Val}) -> {ok, Val}.
+to
+
+    example({ok, Val} = Tuple) -> Tuple.
