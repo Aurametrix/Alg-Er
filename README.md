@@ -15,3 +15,6 @@ $ erl -noshell -s hello start -s init stop
 to
 
     example({ok, Val} = Tuple) -> Tuple.
+
+
+[OTP on Open BSD](http://blog.obligd.com/posts/erlang-otp-on-openbsd.html)
