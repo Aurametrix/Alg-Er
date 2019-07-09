@@ -18,3 +18,8 @@ to
 
 
 [OTP on Open BSD](http://blog.obligd.com/posts/erlang-otp-on-openbsd.html)
+
+
+#### 
+
++ [Erlang: from HYpe to 2019](https://ferd.ca/ten-years-of-erlang.html)
