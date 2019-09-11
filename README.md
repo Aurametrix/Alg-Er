@@ -22,4 +22,6 @@ to
 
 #### 
 
-+ [Erlang: from HYpe to 2019](https://ferd.ca/ten-years-of-erlang.html)
++ [Erlang: from Hype to 2019](https://ferd.ca/ten-years-of-erlang.html)
+
++ [BEAM](https://www.youtube.com/watch?v=JvBT4XBdoUE), The Soul of Erlang and Elixir  - talk by Saša Jurić at GOTO 2019 (April 29); [slides](https://gotochgo.com/2019/sessions/712)
