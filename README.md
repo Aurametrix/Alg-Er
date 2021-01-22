@@ -29,3 +29,5 @@ to
 + [A History of Erlang](https://dl.acm.org/doi/abs/10.1145/1238844.1238850)
 
 + [BEAM](https://blog.erlang.org/a-brief-BEAM-primer/) - virtual machine that executes user code in the Erlang Runtime System (ERTS)
+
++ [Detecting dead code](https://github.com/AdRoll/rebar3_hank) - [blog about the code](https://tech.nextroll.com/blog/dev/2021/01/06/erlang-rebar3-hank.html)
