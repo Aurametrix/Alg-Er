@@ -31,6 +31,9 @@ to
 + [BEAM](https://blog.erlang.org/a-brief-BEAM-primer/) - virtual machine that executes user code in the Erlang Runtime System (ERTS)
 
 + [Detecting dead code](https://github.com/AdRoll/rebar3_hank) - [blog about the code](https://tech.nextroll.com/blog/dev/2021/01/06/erlang-rebar3-hank.html)
++ [Elixir w/Witchcraft](https://blog.appsignal.com/2022/02/08/functional-programming-in-elixir-with-witchcraft.html)
++ [Zotonic](http://zotonic.com/) - real-time web framework : [newest v1](https://test.zotonic.com/)
++ [LISP-flavored Erlang](https://lfe.io/)
 
 + [Lunatic](https://github.com/lunatic-solutions/lunatic) -  – An Erlang Inspired WebAssembly Platform. demos:
     + [turns any command line application into a web server endpoint](https://lunatic.solutions/run/)
