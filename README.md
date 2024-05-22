@@ -42,3 +42,5 @@ to
 + [Lunatic](https://github.com/lunatic-solutions/lunatic) -  – An Erlang Inspired WebAssembly Platform. demos:
     + [turns any command line application into a web server endpoint](https://lunatic.solutions/run/)
     + [telnet chat server written in Rust using actor-based architecture](https://github.com/lunatic-solutions/chat)
+ 
++ [Erlang/OTP 27.0 Release](https://www.erlang.org/news/170)
