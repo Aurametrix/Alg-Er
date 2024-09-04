@@ -32,6 +32,7 @@ to
 + [BEAM](https://blog.erlang.org/a-brief-BEAM-primer/) - virtual machine that executes user code in the Erlang Runtime System (ERTS)
 
 + [Detecting dead code](https://github.com/AdRoll/rebar3_hank) - [blog about the code](https://tech.nextroll.com/blog/dev/2021/01/06/erlang-rebar3-hank.html)
++ [My Blog Engine is the Erlang Build Tool](https://ferd.ca/my-blog-engine-is-the-erlang-build-tool.html)
 + [Elixir w/Witchcraft](https://blog.appsignal.com/2022/02/08/functional-programming-in-elixir-with-witchcraft.html)
 + [Gleam](https://gleam.run/) - written in Rust, running on the battle-tested Erlang virtual machine
 + [The Soul of Erlang](https://youtu.be/JvBT4XBdoUE) - 2019 talk by Sasa Juric
