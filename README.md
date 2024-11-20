@@ -39,6 +39,7 @@ to
 + [Zotonic](http://zotonic.com/) - real-time web framework : [newest v1](https://test.zotonic.com/)
 + [LISP-flavored Erlang](https://lfe.io/)
 + [eqWAlizer](https://github.com/WhatsApp/eqwalizer) - a type-checker for Erlang
++ [](https://underjord.io/how-i-use-erlang-hot-code-updates.html) - Erlang Hot Code Updates
 
 + [Lunatic](https://github.com/lunatic-solutions/lunatic) -  – An Erlang Inspired WebAssembly Platform. demos:
     + [turns any command line application into a web server endpoint](https://lunatic.solutions/run/)
